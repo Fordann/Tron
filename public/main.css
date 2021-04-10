@@ -1,0 +1,10 @@
+#canvas { 
+    margin: auto; 
+    display: block; 
+    border: 1px solid rgb(196, 18, 18); 
+    float:left;
+    width:60%;
+}
+#Leaderboard {
+    margin-left:70% 
+}
